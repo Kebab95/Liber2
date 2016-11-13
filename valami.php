@@ -1,5 +1,5 @@
 <?php 
-if(false){
+if(true){
 	echo "igaz";
 }
 else {
